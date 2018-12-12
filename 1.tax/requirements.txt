@@ -1,0 +1,4 @@
+﻿selenium==3.7.0
+Pillow==5.0.0
+python-docx==0.8.6
+requests==2.18.4
